@@ -3,6 +3,5 @@
    - By leveraging machine learning, our model achieves high precision, eliminating the need for the imaginary part of the effective refractive index.
 
    - Our research encompasses three distinct scenarios, providing a comprehensive understanding of the PCF sensor's behavior under varied conditions.
-   - Explore the ANN models' adaptability and robustness across different scenarios, contributing to the versatility of our findings.
-
+   - 
    - The repository includes a crucial dataset file (`Collected_Data.csv`) generated through COMSOL Multiphysics software. It serves as the foundation for training and validating the ANN models in our research.
